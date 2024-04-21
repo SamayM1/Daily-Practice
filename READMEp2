@@ -1,0 +1,11 @@
+In this next set of files I have worked on the implementation of the concepts learned from the first half of the class.
+There are projects that I created that include the fundamentals of AI/ML, firebase, and other aspects of app development. 
+
+One project that I created was a login screen and dashboard for my app idea of "ClientBridge", in this it allows the user to log into the app but requries a specific username and password to let them in.
+Once they enter the right credentials, it will take them to the dashboard where they have the option to do other tasks.
+
+Another cool project I coded was a ML algorithm to predict the breeds of cats and dogs. It displays a picture of a cat or dog and then lists breeds underneath with the percentage of confidence that it's the breed. 
+
+I also connected my google firebase key to my swift code to allow for some extra functionailty. 
+
+Overall, the main difference in my new uploads is the implentation of concepts learned in class into my projects. 
